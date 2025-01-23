@@ -39,19 +39,24 @@ Solana provides the following advantages for AI agent development:
 
 ---
 
+The **"Getting Started"** section has been cleaned up and formatted properly. Here's the updated version:
+
+---
+
 ## Getting Started
 
 To start building AI agents on Solana, explore the following resources:
 
 - [Solana Documentation](https://docs.solana.com)
 - [Anchor Framework](https://project-serum.github.io/anchor/)
-- https://www.goatindex.ai/hackathon     | Description                                                                                  | Links                                                                                          |
+- [Goat Index Hackathon Resources](https://www.goatindex.ai/hackathon)
+
+| Name          | Description                                                                                  | Links                                                                                          |
 |---------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Eliza         | A multi-agent simulation framework for creating autonomous AI agents with consistent personalities and knowledge. | [Docs](https://ai16z.github.io/eliza-docs/) • [Starter Template](https://github.com/ai16z/eliza-starter) • [Discord](https://discord.com/invite/eliza) |
 | Jito          | Optimized for Solana MEV use cases, offering rapid transaction sending and bundle protection. | [Docs](https://docs.jito.network/) • [Discord](https://discord.com/invite/jito)                                   |
 | Jupiter       | Comprehensive tools for token swaps, limit orders, and DCA integrations.                     | [Docs](https://docs.jup.ag/) • [GitHub](https://github.com/jup-ag/api) • [Telegram](https://t.me/benliewxyz)   |
 
----
 
 ## Awesome Projects
 
